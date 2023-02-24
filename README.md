@@ -1,5 +1,5 @@
 # Introduction
-This program is a web scraper that uses the factory method pattern to extract data from websites. The program supports two scraping frameworks, Puppeteer and Playwright, to provide a flexible and scalable solution for web scraping.
+This program is a web scraper that uses the factory method pattern to extract data from websites. The program supports two scraping frameworks, Puppeteer and Cheerio-Crawlee, to provide a flexible and scalable solution for web scraping.
 
 # Features
 Input data is specified in a JSON file.
