@@ -14,9 +14,9 @@ TypeScript
 # Usage
 1. Clone the repository to your local machine. 
 3. Change into the project directory and install the dependencies.
-`npm install`
+`yarn install`
 3. Compile the TypeScript code.
-`npm run build`
+`npx ts-node <fileName>`
 4. Create a JSON file that specifies the queries you want to perform.
 ```json
   {
