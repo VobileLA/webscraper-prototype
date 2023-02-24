@@ -1,0 +1,9 @@
+{
+	"id": "G9x7ajoAhw2hwih",
+	"json": "{\"id\":\"G9x7ajoAhw2hwih\",\"url\":\"https://123movies.sc/list/featured-movies.html\",\"loadedUrl\":\"https://123movies.sc/list/featured-movies.html\",\"uniqueKey\":\"https://123movies.sc/list/featured-movies.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:34.974Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/list/featured-movies.html",
+	"url": "https://123movies.sc/list/featured-movies.html"
+}

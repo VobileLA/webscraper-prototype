@@ -1,0 +1,9 @@
+{
+	"id": "LCEuM12GbplvbIQ",
+	"json": "{\"id\":\"LCEuM12GbplvbIQ\",\"url\":\"https://123movies.sc/top-imdb/all.html\",\"loadedUrl\":\"https://123movies.sc/top-imdb/all.html\",\"uniqueKey\":\"https://123movies.sc/top-imdb/all.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:39.767Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/top-imdb/all.html",
+	"url": "https://123movies.sc/top-imdb/all.html"
+}

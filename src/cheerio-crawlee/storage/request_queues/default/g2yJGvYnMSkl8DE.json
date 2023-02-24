@@ -1,0 +1,9 @@
+{
+	"id": "g2yJGvYnMSkl8DE",
+	"json": "{\"id\":\"g2yJGvYnMSkl8DE\",\"url\":\"https://123movies.sc/genres/animation.html?p=4\",\"loadedUrl\":\"https://123movies.sc/genres/animation.html?p=4\",\"uniqueKey\":\"https://123movies.sc/genres/animation.html?p=4\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:50.347Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/genres/animation.html?p=4",
+	"url": "https://123movies.sc/genres/animation.html?p=4"
+}

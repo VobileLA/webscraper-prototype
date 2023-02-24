@@ -1,0 +1,9 @@
+{
+	"id": "AipOft1P5EqsCbv",
+	"json": "{\"id\":\"AipOft1P5EqsCbv\",\"url\":\"https://123movies.sc/genres/fantasy.html\",\"loadedUrl\":\"https://123movies.sc/genres/fantasy.html\",\"uniqueKey\":\"https://123movies.sc/genres/fantasy.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:21.164Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/genres/fantasy.html",
+	"url": "https://123movies.sc/genres/fantasy.html"
+}

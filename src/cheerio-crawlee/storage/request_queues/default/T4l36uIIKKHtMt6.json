@@ -1,0 +1,9 @@
+{
+	"id": "T4l36uIIKKHtMt6",
+	"json": "{\"id\":\"T4l36uIIKKHtMt6\",\"url\":\"https://123movies.sc/genres/sci-fi.html\",\"loadedUrl\":\"https://123movies.sc/genres/sci-fi.html\",\"uniqueKey\":\"https://123movies.sc/genres/sci-fi.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:26.167Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/genres/sci-fi.html",
+	"url": "https://123movies.sc/genres/sci-fi.html"
+}

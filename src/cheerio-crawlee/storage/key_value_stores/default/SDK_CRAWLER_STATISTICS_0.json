@@ -1,0 +1,59 @@
+{
+  "requestsFinished": 599,
+  "requestsFailed": 1,
+  "requestsRetries": 2,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 307,
+  "requestMinDurationMillis": 211,
+  "requestMaxDurationMillis": 18463,
+  "requestTotalFailedDurationMillis": 105,
+  "requestTotalFinishedDurationMillis": 1625508,
+  "crawlerStartedAt": "2023-02-23T16:35:04.329Z",
+  "crawlerFinishedAt": "2023-02-23T16:37:00.290Z",
+  "statsPersistedAt": "2023-02-23T16:37:00.290Z",
+  "crawlerRuntimeMillis": 117161,
+  "crawlerLastStartTimestamp": 1677170103129,
+  "requestRetryHistogram": [
+    598,
+    1,
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 105,
+  "requestAvgFinishedDurationMillis": 2714,
+  "requestTotalDurationMillis": 1625613,
+  "requestsTotal": 600,
+  "requestsWithStatusCode": {},
+  "errors": {
+    "/Users/vobile/Documents/webscraper_prototyp_factorymethod/node_modules/got-cjs/dist/source/core/index.js:324:21": {
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND fmovies": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/vobile/Documents/webscraper_prototyp_factorymethod/node_modules/got-cjs/dist/source/core/index.js:324:21": {
+      "ENOTFOUND": {
+        "RequestError": {
+          "getaddrinfo ENOTFOUND fmovies": {
+            "count": 3
+          }
+        }
+      }
+    },
+    "<anonymous>": {
+      "missing error code": {
+        "SyntaxError": {
+          "Unexpected end of JSON input": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

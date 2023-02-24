@@ -1,0 +1,9 @@
+{
+	"id": "B2b401fH3KVd5u2",
+	"json": "{\"id\":\"B2b401fH3KVd5u2\",\"url\":\"https://123movies.sc/a-z/\",\"loadedUrl\":\"https://123movies.sc/a-z/\",\"uniqueKey\":\"https://123movies.sc/a-z\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:42.344Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/a-z",
+	"url": "https://123movies.sc/a-z/"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "flow_type": "INDEXER",
+    "work": {
+      "id": "1",
+      "type": "MOVIE",
+      "label": "avatar"
+    }
+  },
+  {
+    "flow_type": "INDEXER",
+    "work": {
+      "id": "2",
+      "type": "TV_SHOW",
+      "label": "the big bang theory"
+    }
+  },
+  {
+    "flow_type": "HOST_URL_FINDER",
+    "work": {
+      "id": "3",
+      "type": "MOVIE",
+      "label": "Avatar: O Caminho da Água"
+    }
+  },
+  {
+    "flow_type": "HOST_URL_FINDER",
+    "work": {
+      "id": "4",
+      "type": "TV_SHOW",
+      "label": "Big Bang: A Teoria (The Big Bang Theory)"
+    }
+  }
+]

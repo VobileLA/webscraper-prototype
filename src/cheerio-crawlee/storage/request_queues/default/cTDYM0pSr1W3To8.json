@@ -1,0 +1,9 @@
+{
+	"id": "cTDYM0pSr1W3To8",
+	"json": "{\"id\":\"cTDYM0pSr1W3To8\",\"url\":\"https://123movies.sc/upcoming/\",\"loadedUrl\":\"https://123movies.sc/upcoming/\",\"uniqueKey\":\"https://123movies.sc/upcoming\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:35.795Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/upcoming",
+	"url": "https://123movies.sc/upcoming/"
+}

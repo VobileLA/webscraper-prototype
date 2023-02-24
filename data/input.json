@@ -1,0 +1,47 @@
+{
+    "queries": [
+      {
+        "flow_type": "INDEXER",
+        "work": {
+          "id": "1",
+          "type": "MOVIE",
+          "label": "avatar"
+        }
+      },
+      {
+        "flow_type": "INDEXER",
+        "work": {
+          "id": "2",
+          "type": "TV_SHOW",
+          "label": "the big bang theory"
+        }
+      },
+      {
+        "flow_type": "HOST_URL_FINDER",
+        "work": {
+          "label": "Avatar: O Caminho da Água",
+          "id": "3",
+          "type": "MOVIE"
+        },
+        "seed": {
+          "url": "https://filmoves.net/pelicula/avatar-2"
+        }
+      },
+      {
+        "flow_type": "dsfsdfsdn",
+        "work": {
+          "label": "Big Bang: A Teoria (The Big Bang Theory)",
+          "id": "4",
+          "type": "TV_SHOW"
+        },
+        "seed": {
+          "url": "https://filmoves.net/serie/big-bang"
+        },
+        "filter": {
+          "seasonsNumbers": [1, 2],
+          "episodesNumbers": [4, 9]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,9 @@
+{
+	"id": "FAEsksO8naCJbXA",
+	"json": "{\"id\":\"FAEsksO8naCJbXA\",\"url\":\"https://123movies.sc/genres/drama.html\",\"loadedUrl\":\"https://123movies.sc/genres/drama.html\",\"uniqueKey\":\"https://123movies.sc/genres/drama.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:18.889Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/genres/drama.html",
+	"url": "https://123movies.sc/genres/drama.html"
+}

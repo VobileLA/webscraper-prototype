@@ -1,0 +1,9 @@
+{
+	"id": "soM7VwxTXlYKFTA",
+	"json": "{\"id\":\"soM7VwxTXlYKFTA\",\"url\":\"https://123movies.sc/genres/action.html\",\"loadedUrl\":\"https://123movies.sc/genres/action.html\",\"uniqueKey\":\"https://123movies.sc/genres/action.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"SyntaxError: Unexpected end of JSON input\\n    at JSON.parse (<anonymous>)\\n    at RequestQueueFileSystemEntry.get (/Users/vobile/Documents/webscraper_prototyp_factorymethod/node_modules/@crawlee/src/fs/request-queue/fs.ts:17:21)\\n    at async RequestQueueClient.batchAddRequests (/Users/vobile/Documents/webscraper_prototyp_factorymethod/node_modules/@crawlee/src/resource-clients/request-queue.ts:235:47)\\n    at async RequestQueue.addRequests (/Users/vobile/Documents/webscraper_prototyp_factorymethod/node_modules/@crawlee/src/storages/request_queue.ts:358:28)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:36.464Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://123movies.sc/genres/action.html",
+	"url": "https://123movies.sc/genres/action.html"
+}

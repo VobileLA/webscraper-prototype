@@ -1,0 +1,9 @@
+{
+	"id": "yJyaHwfcDR4zUle",
+	"json": "{\"id\":\"yJyaHwfcDR4zUle\",\"url\":\"https://123movies.sc/list/tv-series.html\",\"loadedUrl\":\"https://123movies.sc/list/tv-series.html\",\"uniqueKey\":\"https://123movies.sc/list/tv-series.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:34.110Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/list/tv-series.html",
+	"url": "https://123movies.sc/list/tv-series.html"
+}

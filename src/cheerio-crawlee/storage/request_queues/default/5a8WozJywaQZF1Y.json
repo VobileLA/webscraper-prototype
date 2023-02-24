@@ -1,0 +1,9 @@
+{
+	"id": "5a8WozJywaQZF1Y",
+	"json": "{\"id\":\"5a8WozJywaQZF1Y\",\"url\":\"https://123movies.sc/genres/horror.html\",\"loadedUrl\":\"https://123movies.sc/genres/horror.html\",\"uniqueKey\":\"https://123movies.sc/genres/horror.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:23.637Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/genres/horror.html",
+	"url": "https://123movies.sc/genres/horror.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "HVKLk0rK1g3kCwf",
+	"json": "{\"id\":\"HVKLk0rK1g3kCwf\",\"url\":\"https://123movies.sc/genres/comedy.html?p=2\",\"loadedUrl\":\"https://123movies.sc/genres/comedy.html?p=2\",\"uniqueKey\":\"https://123movies.sc/genres/comedy.html?p=2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-23T16:35:44.792Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://123movies.sc/genres/comedy.html?p=2",
+	"url": "https://123movies.sc/genres/comedy.html?p=2"
+}
